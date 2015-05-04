@@ -1,0 +1,27 @@
+{
+  "name": "tessel-test",
+  "version": "1.0.0",
+  "description": "Testing Tessel (tessel.io)",
+  "main": "ambient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pellebjerkestrand/tessel-test.git"
+  },
+  "author": "Pelle Bjerkestrand <pelle@pellebjerkestrand.net>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/pellebjerkestrand/tessel-test/issues"
+  },
+  "homepage": "https://github.com/pellebjerkestrand/tessel-test",
+  "dependencies": {
+    "accel-mma84": "^0.2.4",
+    "ambient-attx4": "^0.2.5",
+    "ble-ble113a": "^0.2.0",
+    "camera-vc0706": "^0.1.8",
+    "climate-si7020": "^0.1.1",
+    "rfid-pn532": "^0.1.7"
+  }
+}
